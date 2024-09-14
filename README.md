@@ -1,6 +1,6 @@
 # Office Valid Email Checker
 
-![Image](https://raw.githubusercontent.com/thepythoncode97/Office-Valid-Number-Checker/main/Office_Valid_Email_Checker.png)
+![Image](https://raw.githubusercontent.com/thepythoncode97/Office-Valid-Email-Checker/main/Office_Valid_Email_Checker.png)
 
 ## Features
 - **Support Multithreading**: Faster verification with multithreading.
